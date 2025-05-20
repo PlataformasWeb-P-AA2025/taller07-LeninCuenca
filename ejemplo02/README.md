@@ -1,5 +1,7 @@
 ## Actividad
 
+## Grupal Lenin Cuenca - Augusto Davila
+
 * Copiar en esta carpeta los siguientes archivos de la carpeta ejemplo01
 	* configuracion.py
 	* genera_tablas.py
